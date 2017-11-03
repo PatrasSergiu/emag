@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507923729 source:d:\info\emag\lanterna\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

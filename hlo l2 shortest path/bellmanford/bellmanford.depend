@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507733117 source:d:\info\emag\bellmanford\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

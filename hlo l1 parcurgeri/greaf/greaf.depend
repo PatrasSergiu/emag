@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507309454 source:d:\info\emag\greaf\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+

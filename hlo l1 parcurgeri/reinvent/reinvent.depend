@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507295811 source:d:\info\emag\reinvent\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

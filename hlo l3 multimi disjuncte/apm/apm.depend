@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508331772 source:d:\info\emag\hlo l3 multimi disjuncte\apm\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+

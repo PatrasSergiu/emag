@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508587608 source:d:\info\emag\hlo l3 multimi disjuncte\desen\main.cpp
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<vector>
+

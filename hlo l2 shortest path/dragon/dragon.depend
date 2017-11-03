@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507907266 source:d:\info\emag\dragon\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506850724 source:d:\info\emag\sortaret\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

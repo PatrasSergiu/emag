@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507304222 source:d:\info\emag\barbar\main.cpp
+	<fstream>
+	<queue>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507738675 source:d:\info\emag\catun\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+
